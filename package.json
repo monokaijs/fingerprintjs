@@ -1,5 +1,6 @@
 {
-  "name": "@monokaijs/fingerprintjs",
+  "name": "fingerprintjs-safe-dom-blockers",
+  "private": false,
   "description": "Browser fingerprinting library with the highest accuracy and stability",
   "version": "4.6.1",
   "keywords": [
